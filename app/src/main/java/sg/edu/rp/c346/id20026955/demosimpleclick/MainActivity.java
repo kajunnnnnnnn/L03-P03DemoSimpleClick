@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         tv = findViewById(R.id.textViewDisplay);
         etInput = findViewById(R.id.editInput);
         tgbtn = findViewById(R.id.tgbtn);
-        rgButton = findViewById(R.id.rbGender);
+        rgButton = findViewById(R.id.rbGender);  //null object error
 
 
         //set event
